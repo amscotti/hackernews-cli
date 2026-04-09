@@ -1,0 +1,4 @@
+[tools]
+java = "graalvm-community-25.0.2"
+maven = "latest"
+gradle = "latest"
